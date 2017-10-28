@@ -91,6 +91,7 @@ module Spaceship
         watch:        "MZPFT.SortedN27ScreenShot",
         ipad:         "MZPFT.SortedTabletScreenShot",
         ipadPro:      "MZPFT.SortedJ99ScreenShot",
+        iphone58:     "MZPFT.SortedD22ScreenShot",
         iphone6:      "MZPFT.SortedN61ScreenShot",
         iphone6Plus:  "MZPFT.SortedN56ScreenShot",
         iphone4:      "MZPFT.SortedN41ScreenShot",
@@ -105,6 +106,7 @@ module Spaceship
       {
         ipad:         "MZPFT.SortedTabletMessagesScreenShot",
         ipadPro:      "MZPFT.SortedJ99MessagesScreenShot",
+        iphone58:     "MZPFT.SortedD22MessagesScreenShot",
         iphone6:      "MZPFT.SortedN61MessagesScreenShot",
         iphone6Plus:  "MZPFT.SortedN56MessagesScreenShot",
         iphone4:      "MZPFT.SortedN41MessagesScreenShot"
